@@ -1,4 +1,4 @@
-# Expert Log Hours - Jeremy B Warner (Change this to your name)
+# Expert Log Hours - Daniela Sanchez
 
 | Date | Start Time | End Time | Total Time | Short Description of Activities |
 |------|------------|----------|------------|---------------------------------|
